@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "8Queens_A/1.0.0": {
+        "runtime": {
+          "8Queens_A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8Queens_A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Szymon\Desktop\Permutation_Lab1\Permutation_Lab1\bin\Debug\netcoreapp3.0\Permutation_Lab1.exe
+C:\Users\Szymon\Desktop\Permutation_Lab1\Permutation_Lab1\bin\Debug\netcoreapp3.0\Permutation_Lab1.deps.json
+C:\Users\Szymon\Desktop\Permutation_Lab1\Permutation_Lab1\bin\Debug\netcoreapp3.0\Permutation_Lab1.runtimeconfig.json
+C:\Users\Szymon\Desktop\Permutation_Lab1\Permutation_Lab1\bin\Debug\netcoreapp3.0\Permutation_Lab1.runtimeconfig.dev.json
+C:\Users\Szymon\Desktop\Permutation_Lab1\Permutation_Lab1\bin\Debug\netcoreapp3.0\Permutation_Lab1.dll
+C:\Users\Szymon\Desktop\Permutation_Lab1\Permutation_Lab1\bin\Debug\netcoreapp3.0\Permutation_Lab1.pdb
+C:\Users\Szymon\Desktop\Permutation_Lab1\Permutation_Lab1\obj\Debug\netcoreapp3.0\Permutation_Lab1.csprojAssemblyReference.cache
+C:\Users\Szymon\Desktop\Permutation_Lab1\Permutation_Lab1\obj\Debug\netcoreapp3.0\Permutation_Lab1.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Permutation_Lab1\Permutation_Lab1\obj\Debug\netcoreapp3.0\Permutation_Lab1.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Permutation_Lab1\Permutation_Lab1\obj\Debug\netcoreapp3.0\Permutation_Lab1.dll
+C:\Users\Szymon\Desktop\Permutation_Lab1\Permutation_Lab1\obj\Debug\netcoreapp3.0\Permutation_Lab1.pdb

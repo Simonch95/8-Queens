@@ -1,0 +1,11 @@
+C:\Users\Szymon\Desktop\Permutation_Lab1\8Queens_A\bin\Debug\netcoreapp3.0\8Queens_A.exe
+C:\Users\Szymon\Desktop\Permutation_Lab1\8Queens_A\bin\Debug\netcoreapp3.0\8Queens_A.deps.json
+C:\Users\Szymon\Desktop\Permutation_Lab1\8Queens_A\bin\Debug\netcoreapp3.0\8Queens_A.runtimeconfig.json
+C:\Users\Szymon\Desktop\Permutation_Lab1\8Queens_A\bin\Debug\netcoreapp3.0\8Queens_A.runtimeconfig.dev.json
+C:\Users\Szymon\Desktop\Permutation_Lab1\8Queens_A\bin\Debug\netcoreapp3.0\8Queens_A.dll
+C:\Users\Szymon\Desktop\Permutation_Lab1\8Queens_A\bin\Debug\netcoreapp3.0\8Queens_A.pdb
+C:\Users\Szymon\Desktop\Permutation_Lab1\8Queens_A\obj\Debug\netcoreapp3.0\8Queens_A.csprojAssemblyReference.cache
+C:\Users\Szymon\Desktop\Permutation_Lab1\8Queens_A\obj\Debug\netcoreapp3.0\8Queens_A.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Permutation_Lab1\8Queens_A\obj\Debug\netcoreapp3.0\8Queens_A.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Permutation_Lab1\8Queens_A\obj\Debug\netcoreapp3.0\8Queens_A.dll
+C:\Users\Szymon\Desktop\Permutation_Lab1\8Queens_A\obj\Debug\netcoreapp3.0\8Queens_A.pdb
